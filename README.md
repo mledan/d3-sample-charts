@@ -10,7 +10,7 @@ Task:
 5. add reference to the data file (use single-expiration-data.json)
 6. Generate a standard scatter plot (lines optional) of single option chain expiration 
 7. push your changes back up to this repository `git commit -am "message"` then `git push`
-8.create a Pull Request and add me as reviewer
+8. create a Pull Request and add me as reviewer
 
 
 X-axis: Strikes
