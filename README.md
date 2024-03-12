@@ -1,10 +1,13 @@
 # d3-sample-charts
-1. Git 
-2. Create React App https://create-react-app.dev/
-3. D3 In depth: https://www.d3indepth.com/introduction/
-4. D3 + React: https://blog.logrocket.com/getting-started-d3-js-react/
 
-Task: 
+# Documentation for technologies used:
+
+1. Git https://docs.github.com/en/get-started/using-github/github-flow#introduction
+2. Create React App https://create-react-app.dev
+3. D3 https://d3js.org/getting-started
+4. D3 In depth: https://www.d3indepth.com/introduction/
+
+# Task: 
 1. Clone this repository (in vs code terminal, `git clone https://github.com/mledan/d3-sample-charts/`
 2. create a new branch  `git checkout -b "your-branch-name"` https://docs.github.com/en/get-started/using-github/github-flow#create-a-branch
 3. Set up a react app with Create React App command. `create-react-app your-name-for-the-app`
