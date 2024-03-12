@@ -10,7 +10,7 @@
 # Task: 
 1. Clone this repository (in vs code terminal, `git clone https://github.com/mledan/d3-sample-charts/`
 2. create a new branch  `git checkout -b "your-branch-name"` https://docs.github.com/en/get-started/using-github/github-flow#create-a-branch
-3. Set up a react app with Create React App command. `create-react-app your-name-for-the-app`
+3. Set up a react app with Create React App command. `npx create-react-app your-name-for-the-app`
 4. add d3 to the starter project `npm install d3`
 5. add reference to the data file (use single-expiration-data.json)
 6. Generate a standard scatter plot (lines optional) of single option chain expiration 
