@@ -10,8 +10,8 @@ Task:
 5. add reference to the data file (use single-expiration-data.json)
 6. Generate a standard scatter plot (lines optional) of single option chain expiration 
 7. push your changes back up to this repository `git commit -am "message"` then `git push`
-![image](https://github.com/mledan/d3-sample-charts/assets/19522070/5f8a3163-3c63-491a-82c3-cd6d1b145cc9)
 8.create a Pull Request and add me as reviewer
+
 
 X-axis: Strikes
 Y-Axis: Last Price
@@ -21,3 +21,4 @@ Future Considerations:
 be able to load multiple expiration datasets. 
 be able to load the same paramters data but with multiple collection times. (when the snapshot was taken)
 
+![image](https://github.com/mledan/d3-sample-charts/assets/19522070/5f8a3163-3c63-491a-82c3-cd6d1b145cc9)
